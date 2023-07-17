@@ -67,4 +67,3 @@ output+="\n<div align=\"center\">
 echo -e "$output" > result.txt
 echo "The Script is Done!"
 echo "Result written to file: result.txt"
-# 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
