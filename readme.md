@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f41d.svg" width="80">
-  <h1>Eisforés</h1>
+  
+  <br><img src="/Eisforés.svg#gh-light-mode-only" width="170">
+  <img src="/Eisforés-1.svg#gh-dark-mode-only" width="170">
   <p>Powerful script that gets all the contributors across an organization</p>
   
    **Table of Contents:** [Introduction](#introduction) | [Features](#features) | [Installation](#installation) | [Usage](#usage) | [Configuration](#configuration) | [License](#license)
