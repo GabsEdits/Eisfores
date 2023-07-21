@@ -4,8 +4,19 @@
   <br><img src="/assets/Eisforés.svg#gh-light-mode-only" width="170">
   <img src="/assets/Eisforés-1.svg#gh-dark-mode-only" width="170">
   <p>Powerful script that gets all the contributors across an organization</p>
-  
-   **Table of Contents:** [Introduction](#introduction) | [Features](#features) | [Installation](#installation) | [Usage](#usage) | [Configuration](#configuration) | [License](#license)
+   <p>
+    <a href="#introduction">Introduction</a> •
+    <a href="#features">Features</a> •
+    <a href="#installation">Installation</a> •
+    <a href="#usage">Usage</a> 
+    <br/>
+    <a href="#license">License</a> •
+    <a href="#screenshots">Screenshots</a> •
+    <a href="#configuration">Configuration</a>
+  </p>
+  <p>
+  </p>
+
    
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)    
 </div>
