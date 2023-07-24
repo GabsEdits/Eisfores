@@ -26,7 +26,7 @@
 ## Introduction
 
 Welcome to Eisforés! 
-This script is designed to help you gather all the contributors' information across an organization. It provides a powerful and efficient way to get insights into your contributors' activities. This script might join the Vanilla OS Family, but for now, it will leave here.
+This script is designed to help you gather all the contributors' information across an organization. It provides a powerful and efficient way to get insights into your contributors' activities. This script might join the Vanilla OS Family, but for now, it will live here.
 
 ## Features
 - Efficiently fetches and organizes contributor data.
